@@ -5,5 +5,3 @@ Keychains are indicated by spacing at the start of the line.
 
 I use the same terms and general syntax for shortcuts as in Openbox.
 
-
-
